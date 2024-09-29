@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2023-09-20
+   ..  Created        : 2024-09-10
    ..  Description    : description about 第04讲~第05讲的修订与补充
    ..
 .. -----------------------------------------------------------------------------
@@ -19,3 +19,6 @@
 .. image:: 幻灯片6.JPG
 .. image:: 幻灯片7.JPG
 .. image:: 幻灯片8.JPG
+.. image:: 幻灯片9.JPG
+.. image:: 幻灯片10.JPG
+.. image:: 幻灯片11.JPG

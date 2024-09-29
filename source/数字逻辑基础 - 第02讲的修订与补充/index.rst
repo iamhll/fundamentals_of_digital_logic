@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2024-09-20
+   ..  Created        : 2024-09-10
    ..  Description    : description about 第02讲的修订与补充
    ..
 .. -----------------------------------------------------------------------------
