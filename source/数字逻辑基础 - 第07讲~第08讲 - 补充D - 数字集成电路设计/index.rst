@@ -4,15 +4,18 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2024-09-10
-   ..  Description    : description about 补充C.2 - Booth乘法器
+   ..  Description    : description about 第07讲~第08讲 - 补充D - 数字集成电路设计
    ..
 .. -----------------------------------------------------------------------------
 
-第06讲~第07讲 - 补充C.2 - Booth乘法器
+第07讲~第08讲 - 补充D - 数字集成电路设计
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
 .. image:: 幻灯片2.JPG
+
+数字集成电路的表达方法
+........................................
 .. image:: 幻灯片3.JPG
 .. image:: 幻灯片4.JPG
 .. image:: 幻灯片5.JPG
@@ -32,16 +35,12 @@
 .. image:: 幻灯片19.JPG
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
+
+数字集成电路的设计方法
+........................................
 .. image:: 幻灯片22.JPG
 .. image:: 幻灯片23.JPG
 .. image:: 幻灯片24.JPG
 .. image:: 幻灯片25.JPG
 .. image:: 幻灯片26.JPG
 .. image:: 幻灯片27.JPG
-.. image:: 幻灯片28.JPG
-.. image:: 幻灯片29.JPG
-.. image:: 幻灯片30.JPG
-.. image:: 幻灯片31.JPG
-.. image:: 幻灯片32.JPG
-.. image:: 幻灯片33.JPG
-.. image:: 幻灯片34.JPG
