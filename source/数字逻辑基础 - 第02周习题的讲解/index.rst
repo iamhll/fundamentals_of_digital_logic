@@ -4,7 +4,7 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2024-09-10
-   ..  Description    : description about 第01周习题的讲解
+   ..  Description    : description about 第02周习题的讲解
    ..
 .. -----------------------------------------------------------------------------
 

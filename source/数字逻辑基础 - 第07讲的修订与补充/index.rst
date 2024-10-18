@@ -4,14 +4,15 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2024-09-10
-   ..  Description    : description about 第03~04周习题的讲解
+   ..  Description    : description about 第07讲的修订与补充
    ..
 .. -----------------------------------------------------------------------------
 
-第03~04周习题的讲解
+第07讲的修订与补充
 --------------------------------------------------------------------------------
 
 .. image:: 幻灯片1.JPG
 .. image:: 幻灯片2.JPG
 .. image:: 幻灯片3.JPG
 .. image:: 幻灯片4.JPG
+.. image:: 幻灯片5.JPG
