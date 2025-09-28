@@ -39,6 +39,13 @@
 .. image:: 幻灯片19.JPG
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
+
+previous version
+
+.. image:: 幻灯片22_old.JPG
+
+current version
+
 .. image:: 幻灯片22.JPG
 .. image:: 幻灯片23.JPG
 .. image:: 幻灯片24.JPG
