@@ -21,17 +21,38 @@
 .. image:: 幻灯片5.JPG
 .. image:: 幻灯片6.JPG
 .. image:: 幻灯片7.JPG
+
+previous version
+
+.. image:: 幻灯片8_old.JPG
+
+current version
+
 .. image:: 幻灯片8.JPG
 
 *乘（补充部分）*
 ........................................
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
+
+previous version
+
+.. image:: 幻灯片11_old.JPG
+
+current version
+
 .. image:: 幻灯片11.JPG
 .. image:: 幻灯片12.JPG
 .. image:: 幻灯片13.JPG
 .. image:: 幻灯片14.JPG
 .. image:: 幻灯片15.JPG
+
+previous version
+
+.. image:: 幻灯片16_old.JPG
+
+current version
+
 .. image:: 幻灯片16.JPG
 .. image:: 幻灯片17.JPG
 .. image:: 幻灯片18.JPG
