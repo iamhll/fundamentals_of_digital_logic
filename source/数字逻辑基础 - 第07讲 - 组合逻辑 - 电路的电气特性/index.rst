@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2024-09-10
+   ..  Created        : 2025-09-16
    ..  Description    : description about 第07讲 - 组合逻辑 - 电路的电气特性
    ..
 .. -----------------------------------------------------------------------------

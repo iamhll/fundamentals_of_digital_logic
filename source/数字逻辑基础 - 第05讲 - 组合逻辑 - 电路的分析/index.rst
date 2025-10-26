@@ -4,7 +4,7 @@
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
    ..  Created        : 2025-09-16
-   ..  Description    : description about 第04讲 - 逻辑代数 - 逻辑化简
+   ..  Description    : description about 第05讲 - 组合逻辑 - 电路的分析
    ..
 .. -----------------------------------------------------------------------------
 
