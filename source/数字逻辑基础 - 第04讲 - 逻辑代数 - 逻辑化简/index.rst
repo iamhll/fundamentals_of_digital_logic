@@ -38,11 +38,11 @@
 ........................................
 .. image:: 幻灯片14.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片15_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片15.JPG
 .. image:: 幻灯片16.JPG

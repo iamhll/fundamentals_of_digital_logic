@@ -23,20 +23,20 @@
 .. image:: 幻灯片7.JPG
 .. image:: 幻灯片8.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片9_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片11_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片11.JPG
 .. image:: 幻灯片12.JPG
@@ -47,19 +47,19 @@ current version
 ........................................
 .. image:: 幻灯片15.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片16_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片16.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片17_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片17.JPG
 .. image:: 幻灯片18.JPG
@@ -67,11 +67,11 @@ current version
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片22_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片22.JPG
 .. image:: 幻灯片23.JPG
