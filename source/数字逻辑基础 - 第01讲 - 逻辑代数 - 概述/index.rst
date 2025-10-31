@@ -32,11 +32,11 @@
 .. image:: 幻灯片10.JPG
 .. image:: 幻灯片11.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片12_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片12.JPG
 
@@ -48,19 +48,19 @@ current version
 .. image:: 幻灯片16.JPG
 .. image:: 幻灯片17.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片18_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片18.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片19_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片19.JPG
 .. image:: 幻灯片20.JPG

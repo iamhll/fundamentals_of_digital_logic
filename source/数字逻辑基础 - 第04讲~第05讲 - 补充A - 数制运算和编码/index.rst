@@ -40,11 +40,11 @@
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
 
-previous version
+**previous version:**
 
 .. image:: 幻灯片22_old.JPG
 
-current version
+**current version:**
 
 .. image:: 幻灯片22.JPG
 .. image:: 幻灯片23.JPG

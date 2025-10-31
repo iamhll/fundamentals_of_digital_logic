@@ -18,8 +18,29 @@
 .. image:: 幻灯片2.JPG
 .. image:: 幻灯片3.JPG
 .. image:: 幻灯片4.JPG
+
+**previous version:**
+
+.. image:: 幻灯片5_old.JPG
+
+**current version:**
+
 .. image:: 幻灯片5.JPG
+
+**previous version:**
+
+.. image:: 幻灯片6_old.JPG
+
+**current version:**
+
 .. image:: 幻灯片6.JPG
+
+**previous version:**
+
+.. image:: 幻灯片7_old.JPG
+
+**current version:**
+
 .. image:: 幻灯片7.JPG
 .. image:: 幻灯片8.JPG
 .. image:: 幻灯片9.JPG
