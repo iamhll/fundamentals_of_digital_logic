@@ -150,20 +150,17 @@
 .. image:: 幻灯片65.JPG
 .. image:: 幻灯片66.JPG
 
-未完待续...
-
-..
-   具体特性
-   ````````````````````````````````````````
-   .. image:: 幻灯片67.JPG
-   .. image:: 幻灯片68.JPG
-   .. image:: 幻灯片69.JPG
-   .. image:: 幻灯片70.JPG
-   .. image:: 幻灯片71.JPG
-   .. image:: 幻灯片72.JPG
-   .. image:: 幻灯片73.JPG
-   .. image:: 幻灯片74.JPG
-   .. image:: 幻灯片75.JPG
-   .. image:: 幻灯片76.JPG
-   .. image:: 幻灯片77.JPG
-   .. image:: 幻灯片78.JPG
+具体特性
+````````````````````````````````````````
+.. image:: 幻灯片67.JPG
+.. image:: 幻灯片68.JPG
+.. image:: 幻灯片69.JPG
+.. image:: 幻灯片70.JPG
+.. image:: 幻灯片71.JPG
+.. image:: 幻灯片72.JPG
+.. image:: 幻灯片73.JPG
+.. image:: 幻灯片74.JPG
+.. image:: 幻灯片75.JPG
+.. image:: 幻灯片76.JPG
+.. image:: 幻灯片77.JPG
+.. image:: 幻灯片78.JPG
