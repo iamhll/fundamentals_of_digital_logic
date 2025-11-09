@@ -45,10 +45,10 @@
 **current version:**
 
 .. image:: 幻灯片7.JPG
+.. image:: 幻灯片8.JPG
 
 逻辑类型的转换
 ````````````````````````````````````````
-.. image:: 幻灯片8.JPG
 .. image:: 幻灯片9.JPG
 .. image:: 幻灯片10.JPG
 .. image:: 幻灯片11.JPG
