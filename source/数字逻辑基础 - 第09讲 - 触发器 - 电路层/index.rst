@@ -3,7 +3,7 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2024-09-10
+   ..  Created        : 2025-09-16
    ..  Description    : description about 第09讲 - 触发器 - 电路层
    ..
 .. -----------------------------------------------------------------------------
