@@ -68,9 +68,13 @@
 .. image:: 幻灯片39.JPG
 .. image:: 幻灯片40.JPG
 .. image:: 幻灯片41.JPG
-.. image:: 幻灯片42.JPG
-.. image:: 幻灯片43.JPG
-.. image:: 幻灯片44.JPG
-.. image:: 幻灯片45.JPG
-.. image:: 幻灯片47.JPG
-.. image:: 幻灯片48.JPG
+
+未完待续...
+
+..
+   .. image:: 幻灯片42.JPG
+   .. image:: 幻灯片43.JPG
+   .. image:: 幻灯片44.JPG
+   .. image:: 幻灯片45.JPG
+   .. image:: 幻灯片47.JPG
+   .. image:: 幻灯片48.JPG
