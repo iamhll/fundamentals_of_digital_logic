@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'fundamentals_of_digital_logic'
-copyright = '2023, llhuang'
+copyright = '2026, llhuang'
 author = 'llhuang'
 
 
