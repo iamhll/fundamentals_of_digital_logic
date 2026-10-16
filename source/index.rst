@@ -79,4 +79,6 @@
 往年课件
 ----------------------------------------
 
+**不建议大家对照着往年课件听课，会在一定程度上破坏课程设计，影响听课效果。**
+
 https://fundamentals-of-digital-logic-2023.readthedocs.io/en/latest/
