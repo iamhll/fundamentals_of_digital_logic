@@ -49,7 +49,11 @@
 
    ../数字逻辑基础 - 第06讲~第07讲 - 补充C.2 - Booth乘法器/index
 
-.. image:: 幻灯片19.JPG
+[P.19]
+
+..
+   .. image:: 幻灯片19.JPG
+
 .. image:: 幻灯片20.JPG
 .. image:: 幻灯片21.JPG
 .. image:: 幻灯片22.JPG
