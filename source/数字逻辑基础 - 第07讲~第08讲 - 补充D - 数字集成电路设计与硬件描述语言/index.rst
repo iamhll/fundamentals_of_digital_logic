@@ -3,8 +3,8 @@
    ..  Filename       : index.rst
    ..  Author         : Huang Leilei
    ..  Status         : phase 000
-   ..  Created        : 2025-09-16
-   ..  Description    : description about *补充D - 数字集成电路设计*
+   ..  Created        : 2026-09-14
+   ..  Description    : description about 补充D - 数字集成电路设计
    ..
 .. -----------------------------------------------------------------------------
 
