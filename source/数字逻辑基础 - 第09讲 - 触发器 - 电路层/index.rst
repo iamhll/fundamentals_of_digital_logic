@@ -128,16 +128,15 @@
 .. image:: 幻灯片70.JPG
 .. image:: 幻灯片71.JPG
 .. image:: 幻灯片72.JPG
+.. image:: 幻灯片73.JPG
+.. image:: 幻灯片74.JPG
 
-.. .. image:: 幻灯片73.JPG
-.. .. image:: 幻灯片74.JPG
-.. 
-.. 具体特性
-.. ````````````````````````````````````````
-.. .. image:: 幻灯片74.JPG
-.. .. image:: 幻灯片75.JPG
-.. .. image:: 幻灯片76.JPG
-.. .. image:: 幻灯片77.JPG
-.. .. image:: 幻灯片78.JPG
-.. .. image:: 幻灯片79.JPG
-.. .. image:: 幻灯片80.JPG
+具体特性
+````````````````````````````````````````
+.. image:: 幻灯片74.JPG
+.. image:: 幻灯片75.JPG
+.. image:: 幻灯片76.JPG
+.. image:: 幻灯片77.JPG
+.. image:: 幻灯片78.JPG
+.. image:: 幻灯片79.JPG
+.. image:: 幻灯片80.JPG
